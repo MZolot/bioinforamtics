@@ -1,0 +1,2157 @@
+########################################
+# Program: needle
+# Rundate: Wed 29 Mar 2023 20:28:23
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20230329-202804-0350-31837453-p2m.asequence
+#    -bsequence emboss_needle-I20230329-202804-0350-31837453-p2m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 153684280-153710637
+# 2: c83749045-83743579
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 26444
+# Identity:    3736/26444 (14.1%)
+# Similarity:  3736/26444 (14.1%)
+# Gaps:       21063/26444 (79.7%)
+# Score: 17542.5
+# 
+#
+#=======================================
+
+153684280-153      1 AGGCCGGCTCGGAGGCAGCGAGAAAGCGCAGCCAGGCGGCTGCTCGGCGT     50
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153     51 TCTCTCAGGTGACTGCTCGGAGTTCTCCCAGGTACGTCGTGCGCTCCCCA    100
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153    101 CTCGTGTGGTCTCTCTGCACCCCTTCCTGGGGTCGGGTCGGGCAGGGGCG    150
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153    151 GAGGGGAGCCGCAGCCCGGTCACGGGCTCTGGGGAACCCGGGCTCCCGTT    200
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153    201 CGGCTGCACCTGGGCCCCTAGCTCCTGTCCGGGCGGGGATAGCGGGAAGC    250
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153    251 GCACCAGGCCCCCGGGACGCCGGTGCTTCTTTGCACGGCCCAGCGCGGGA    300
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153    301 ATGTGGACACCAGCGAAGCCGGCTCAGGTCGGCCCTCGGGAGAAGCAGGG    350
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153    351 GCTACACGGAAAGGGAGCCCGAGGGTCCTGCAGAGCCCGAGGTCGGGACC    400
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153    401 CCGCGCGTGCAGTGCCAATGGGCTGCGGCTGGGCTGAGCGCCCTTCCAAC    450
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153    451 CTTGCAGGCCCCGGGGGGGTTGCCGCGGAGAGCTTCCGCTGGGGCTCCGG    500
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153    501 GCCTCTGGCCGCCACCTCCCTCGGGAGGCCGAGGGGGGCGGTGGCCCCGG    550
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153    551 CCCGGCCCTCCCGCTTCCCTCACGGCCTGGCCCTCCCGCTTCCCTGATTC    600
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153    601 CCGGTAGGGTCGCTCTCCCCGCCTCCTGGCCCCTCTTGGCTCGGATGACA    650
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153    651 AAGATTGGGTAAAGGCTTTCAACGAGCTAGCGTCTGGCAGGGGGTGTGTC    700
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153    701 CTCGCTCACTGGTTACTGCTAGGACGGAGCTTGGATTTTGGTCACCGTGG    750
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153    751 CTCAGAGGTGGGAAAGGTTCCGTGCTCTGGGTCTGTCCAGGACCCTGGCT    800
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153    801 CCCTAACCCAAGTCTGACCTCTGCTCCCTGGCAGGCTTCGCCCCACCTCT    850
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153    851 GCGTTCCTTCATTCTTAGGATGTGTGAGTTAGGTCTCTGATTAGAAAACA    900
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153    901 ACTTACAGCGTTTAAGCAAAGTCGAGTCCTTCAAGTAAGAATGCTTTGAA    950
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153    951 GTGCCCTTTACAACTTCTTCAACTTCTATAAATATGAACTTGTGTTTAGA   1000
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   1001 ACTTAAATGCAAGCCAGGAAAGTCTTTTTCCTGTTTGAAAGAGAGAGAAA   1050
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   1051 GAGAGAGAAAGAGGTGATTGGAAGTGGTGGGTGGGGGCGGAGAAAGAGAA   1100
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   1101 GGAGAGTAATCTGGGTGTAGACAACTCAAAGTTTGCTGAGATGACTTTAA   1150
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   1151 TCTTTTGACTCTGTTATTAAGATTTTTACCAAAGAGCAACTGTAGCTATG   1200
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   1201 GTGGCCTGACTTGAAGGGACAGACCAAACAAACAACAAAACACAAAACAA   1250
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   1251 AACAAACAAACAACAAAAGCAAGAGCAGAAACTATTGGAAAATGATTTAT   1300
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   1301 TCACCAATATTTTAAAGGTTCTTCCTGTTCTAAGCAAGGAACATCTTTAA   1350
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   1351 GTTCTTTATAATGTACCCATTTTACATTTACAAAAACTGCCAGAAGTTGA   1400
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   1401 CAGCATGTTTTGGGGGTTTCTAAGCTATCAGTTAATTTTTTGGGGTACAG   1450
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   1451 TTTTATTGATAAACTAACAGAGTAGAAAAAATCTAATGGAATACCCCCAA   1500
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   1501 ATTTAAAAGAGGGCAAGAAAAGAGAGACAATAGAACATAAAACAAATGGG   1550
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   1551 ACAAGAATAAAGTACATAGTTGTCACAGTCCCTTGGGTGCTGCTGTAACA   1600
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   1601 AAATACCTGAGACTGGGTAATTTACAAAGAACAGAAATTTATCCATTCAT   1650
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   1651 GGTTCTGGAGTCTGGGAAGTCCAAGATTGAAGGGCTGCATCTGGTGAGGG   1700
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   1701 TCATCTGGCTACATTATAACATGATGGAAAGCATCACATGGTGAGAGAGA   1750
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   1751 GCAAGAGAGGACAGAACTTACTTTTATAACAAACTCATTCTCACAATAAA   1800
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   1801 CTGCTCCCTTGGTGATAACATTAATCCATTTATGAGGGTACAGCCTTCAT   1850
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   1851 AACCTAATCACCTCTTAAAAGGTTCCACCTCTCAGCTCGCAGTGAGCCGA   1900
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   1901 GATCATGCCACTGCACTCCAGCCTGGGTGACAGAGCGAGACTCTGTCTCA   1950
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   1951 AAACAAACAAACAAACAAAAATTCCACCTCTCAACACTGTTGCATTGAAG   2000
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   2001 ATGAAATTTCCAATACATGAGCTTTGGGGCACACATTCAAACCATAGCAA   2050
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   2051 TAGTTCAATTACTTTAAAGCCCAAAATGTCAGTAATTATATTAAATGCAA   2100
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   2101 TTTAATACATCAGTAACTAAATGAGATAGACTAAATTTTATGATAATCAG   2150
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   2151 ACTAATATTATCAGACTAGACTTCAAAACAACCCAACAATCATATGCTGT   2200
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   2201 TTACAAGAGACACATTTATGGATACTAAAAGGTATAAAGTGAACAGATGC   2250
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   2251 AACCATTTATCAAAAGAAAGCTGTTGTGGCAATATTACTATTAGACAAAA   2300
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   2301 TAGAATTAGGAAAAAAATCATAACTGTAGATAAACGTTTCACTAAGTTAA   2350
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   2351 AGGTTTCACTGAGAAGAAATAAAAATTTTGAATTTATAAGTACTTATAAC   2400
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   2401 AACATTAAGAAACTAGAAAATAGAAAAAGAATAGAGCCAAATTGACTGAA   2450
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   2451 CTAGAAAAATAGAAAATTCATAGAAAAATCCACAATCATAGTGGGAGATT   2500
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   2501 TTATCATACATCTCTCAGTAACTGATAGAAAAACCAGACAAAAATCAATA   2550
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   2551 AGGATAAAGAAAATGCGAACACAATGTAGTTCACATAAGGAACCTATACT   2600
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   2601 ACTTCCAACAGCAGCTGAAATCACAGAGCATACTTAAAATCTGACCATAT   2650
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   2651 ACTGGCTCATAGAGTAAATTGCAATACATTTTAAAGAATTTAAATCATAC   2700
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   2701 AGAATATGTCTTCTGACCATAATGCAATTAAAGTAGAAAAGAACAGAAAA   2750
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   2751 ACTTATAGAAAATTCTCATATATTTGGAAATTAGTAAATTTCTAAATAAC   2800
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   2801 CCATGGGTCAAAAAATAATCAGAATGAAAATCAGAAAATATTTTTAATGA   2850
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   2851 CTTATGAAAAAAATTACATATAAAAACTTGTCAGATGCACCTAAACTGTT   2900
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   2901 GCTTAAAGGAAACTTACAACCTTAAGTGCATATATTAGAAATGAAGAGTG   2950
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   2951 ACGAAAAATGAATGAGCAAGCAAATACCTTAAAAACTGGAAAAGGAATAG   3000
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   3001 TAAAATAAATCCAGAGAAATCAGAACAGGGGAAATAATAATATAAGAATA   3050
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   3051 GAAATTAATGTGCTAGAAAATAGGGGATCTATCAAGTCAGAAGTTGATTT   3100
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   3101 TTTGAAAATGCTAATAAAAATGATGAACCTCTGGCAAGACAATAAAAGCT   3150
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   3151 GGTACAAATAACTCATCTAAGGAATAAAATTGAGGACCTCTCTTTTGTTA   3200
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   3201 AATGACATAAGCAGGAGGCCATTATCCTGAGACTGTCTCTACACTTTGAG   3250
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   3251 TTCTTACATAATAAACTGCAACCTAATTTAGTATACTACATAAACAAACT   3300
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   3301 GAAACCTAACTTAGGAGCTTTTTTTTTGTAATTAATAGCTAAATTTCCAC   3350
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   3351 CAAATCATAAATAGCCAAGCTTTAGCCAATCACAGGCAGCCAACTGATCA   3400
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   3401 GACTATGCCCAAACAAGGTAAATGCCTATTACACCATACCCAAATAAGGC   3450
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   3451 AGACTCCTAGCTGAAGCCAATCAGGTGATTACTATGCTCTTGTGTTTGGC   3500
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   3501 CTATAAAAGCTCACTGCTCACACTGTTGGATGCTCTCTGAAACTTTTGTG   3550
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   3551 AATCTGAGTGCTGCCTGATTCATGAATCATTCTTTGCTAAAATAAACTCT   3600
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   3601 GTCAAATTTAATTTGTCTGAAGTTTCTCTTTTAACAGTGTTTGGTGTTGC   3650
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   3651 AAGCAGGATCCAAAGGAGACCTATAGTGACTCCCAGGAGCTCTTAGTGAC   3700
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   3701 CAAGTGAAGGTACCTGTGGGGCTCATTGTGCCCATTGCTCTTTCACTGCT   3750
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   3751 TTCAACTGGTAGTTGTGGGTAAGTTCCTGCTCAGACTTGAGCACTATACA   3800
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   3801 TTTGCATTTTCAGCTCTCTGACTTTATTTGAGCAATTCTTTGATGGATTG   3850
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   3851 GCTCCAGAATTGGATTGGATTCAGTGAAGAAACTGAAACTGGACTGGTGC   3900
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   3901 TCTAGGAGGCCTCAAGTAGATAAGGTTACTAGAAGACAGGGAATCCTGGG   3950
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   3951 CTTATCTGGATTTAAGGAGTCTACAACTCCATCTGCAACTCCAGCCGATT   4000
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   4001 TCATTTATAAGAATTATGGACCAAGAACCTGTGCTTTTCTAGAGAAATGT   4050
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   4051 GTGAGCCTTACTAAAGGTAACTTAGAATTACAATGGACTGCTGAGACCAG   4100
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   4101 CTCGGTCGTGGAGACCCTAACCCAGCAGCGCTAGAGGAATCAAAGACACA   4150
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   4151 CACACAGAAATGTAGAGTGTGGAGTGGGAAATCAGGGGACTCACAGCCTT   4200
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   4201 CAGAGCTGAGAGCCCCTAACAGAGATTTACCCACATATTTACTGACAGCA   4250
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   4251 AGCCAGTGATAAGCATTATCGCTATAGATTATAGATTAACTAAAAGTATT   4300
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   4301 CCTTACAGGAAACAAAGGGATGGGCCGAAACAAAGGGATAGGCTCTGGCT   4350
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   4351 AGATGTCTGCAGCAGGAACACGTCCTTAAGGCACAGATTGCTCATGCTAT   4400
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   4401 TGTTGTGGCTTAGGAACACGTTAAGCGGTTTTCTGCCCTGGGTGGGCCAG   4450
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   4451 GTGTTCCTTGCCCTCATTCCAGTAAACCCACAACCTTCAGCGTGGGCGTC   4500
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   4501 ATGGCTGTCACAAACATGTCACAGTGCTGCAGAGATTTTGTTTATGGCCA   4550
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   4551 AATCTGGGGCTAGTTTATGGCCAGGTTTGGGAGCCTGTTCCCACATGTCC   4600
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   4601 CCCTTTTTTGTTTTGCAAAGCAATAAAAGCAAAGGCAGCTTTGTCACAGT   4650
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   4651 GAGCTACTTCTTGCAGGAGTCGGGATTCGCATATGCATACTATACAAAGA   4700
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   4701 CAAACAACACAGATTAAAAGCACAACCATCATTGAAATCACAGAGCTTCC   4750
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   4751 AAGTGTCTTTATCTATTTTAATGGGTTAATCACTGCTAATCTGTCTGCAG   4800
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   4801 CTCCTTCAAGCACTCCAGTTCCTGGCATTAAGGTCTGGTGTGCCTGGAAT   4850
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   4851 GCTTTAAATATTTGTTCTTTTAATATTGCAATATGGAAAGACAAGTTTGT   4900
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   4901 AGAGTGTCTTCTAGGTGCTTTTTTATTCTTTCCTGAATTTGGTCTTATTT   4950
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   4951 AAGAGCCATTAATAGTTTCCACAAATCCTTATGTTTAGCTCCTACAGCGG   5000
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   5001 GCCATATCATTTGAGGGTGAGGTGCCACTATACCATCATGTTTCCAGATA   5050
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   5051 ATAGGAACTCTTGCCATATTTCTTGCTATTTCTACCATCTGACCATTTTG   5100
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   5101 TTTAGACCAGCTAAACATAGTGTGGCCATGGCACGCAGACTGAGAGGTGC   5150
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   5151 AATTTAAGCTAAACATCCCCTTAGGGGACCAATCAATAATGATTCCATAG   5200
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   5201 GAATCACTGCGCAGCACCTCTGCCTATTCTGCAATGCAATCTTCCCAAAC   5250
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   5251 AAGTATGTTCATTATTTCTGGCCAGGTCCAATTCTGTTTACAAATAGGTT   5300
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   5301 TTTGAGGGCAATATGCCTCAATTATAGAAACAGATTTATTATGGTAAATA   5350
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   5351 CTGAGATCAGAAAGCATGTGTAACTGTGTCATAGAATGATTACATCCAGG   5400
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   5401 CATTATTGCCAGCCAAGATTGATAAATATGCCCAATAAGTATAATTGTTC   5450
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   5451 TCTGTGTTAGCCCTTGTTGAAGGAATACTAATGGCAATGGTGATCACTGC   5500
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   5501 TATCATAGCTATCATTAAATTACTCATTGTGACTGGTTGTCCCACTTTCC   5550
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   5551 TCAGGTTTTCTTCCACCCTCTATGGCAGTTTCTTGATCTGTCCCCAGGTA   5600
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   5601 GATGGCTGTGTTTGATGGTTGTTGCTCGTGATAGTTTGGGTCCTCCTCAG   5650
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   5651 CATCAGTCTCGACATGGCTGCAACCAGAGGGTCCTCGGGATCCTCCCAGA   5700
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   5701 ATCTCTTCCTTGGCATCTGGCTCATGATAAGGTTTCAGGTGTCTTGATGG   5750
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   5751 TATCCAAATCAGCTATTGATTCTGGCCTGGAGAAACACAAGCATAACCTC   5800
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   5801 TACCCCAAGTTATTATTTTACCTATTTCCCAACTTTTTGTTGTCAGATCT   5850
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   5851 CTGCACCAAGCCAGTTGTTCTGCTTCTGTTTTTGCAGCTGGTTTCTGTAG   5900
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   5901 ATGCTCTTCAGCTGCTGATAGCATCTGGCCTTTAGGCAGGCTCAAAAAAT   5950
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   5951 TTAAAGTCATTAATGCTAGATTCAGTTGTATATGGGGTGTCCTGTAATCC   6000
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   6001 CTGTTTCCCCTTTTTGCTTTTGCAACTGCTGTTTCAGGGAGAGATTCATT   6050
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   6051 CTTTCTACAATGGTTTGTCCTTGAGAATTATATGGGATGCCAGTAATGTG   6100
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   6101 TTTAATATTCCATATAGAGAAAAATGTAGCTAGAGCTTGGCTAGTATAGC   6150
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   6151 CTGGGGCATTATCTGTTTTAACAGAAGTTGGAATTCCTATCACCACAAAA   6200
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   6201 CACTGCAAAAGGTGATGCTTAACACATGCAGTCTCCTGATTGGCATGTAG   6250
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   6251 CCCAGACAAAGTGAGAAAAGGTGTCCACACATACATGTACATAAGCTAGT   6300
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   6301 CTCCCAAACGAGGGAACGTGTGACATCCATTTGCTAAAGATAATTAGGTT   6350
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   6351 CCAATCCTCGAGGATTAACTCCTCCTGTTAAAGATGAGGAATGCACCATT   6400
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   6401 TGGCAAGTTGGGCATCACTGGATAATAGCTTTAGCTTCTTTCCAGGTACT   6450
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   6451 GTTATATCTGCATTTGAGACCAGAGGCATTAACATGGGTTAAATTGTGAA   6500
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   6501 AGTGTCTAGCATTAGATATTGCAGTAGCAACTAGGCGATCAGCCATTTGA   6550
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   6551 TTCCCTTCAGTTAAAGGTCCTGGAAGAGGTGTATGAGCCCTAATGTGAGT   6600
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   6601 GATGTAAAAAGGGTGCATTCTACTCCTAAATGCTGTTTGCAATTGGGTAA   6650
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   6651 ATAAAGTCATCAGTTGTTCATCTGTATGAAGTCATAACTGAGCATTTTCA   6700
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   6701 ATTAATTGTATGGAATGAACCACATAGGAAGAATCAGAAATCACATTAAT   6750
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   6751 AGGCATATCAAAAGCAGTCAATACCTCAATTACAGCTAAAGCTCCACTTT   6800
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   6801 TTGAGCTGAAGTATAGGGCGTGTGAAAAACTTTACCTTTTGATCCAGAAT   6850
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   6851 AAGAGGCTTTACCATTACAAGACCCATCTGTAAAAACATTCTCAGCACCT   6900
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   6901 TCAGTTGGTTTAAATTTAGTTATTTTGGGGAGAATCCAATTAGTTAATTT   6950
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   6951 CAAAAATTGAAATAATTTCATTTTAGGAAAATGATTATCAAGAATACCCA   7000
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   7001 CAAAGTCAGCTAAATGGGTTTGCCAAGTAAGACTATTTATAGAAGCTTGC   7050
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   7051 TGTATTTGTGCCTTTGTGAGAGGGACAATAATTTTTCCAGGATCATATCC   7100
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   7101 ATGTAATTTAACAATCCGAATTCTCCCATTTCTTATCATCGTAGCCATTT   7150
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   7151 GATCCAAATAAGGAGTTAGAGTCTGTGAATTAGTATGTGGAAGAAAAAGC   7200
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   7201 CACTGTACAAAGTCTTGCTCTTATACAATAACACCAGTAAGTGAATGCTG   7250
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   7251 AGTTGGAAAAATTAGCAAATCTAGGGTCTTTTTTGGATCTATTCTATTTA   7300
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   7301 TTTGAGATTTATGGATTTGCTTTTTGATTAGCTGCAGCTCTGCCTCAGCT   7350
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   7351 TCTTTTGTTAATTGCTGAGGGCTAATGAGACTAGGATCTCCTCTAAGGAT   7400
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   7401 AGAAAATAGATTACTCAGGGCATAGGTGGGAATGCCTAGAGCAGGTCATA   7450
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   7451 TCCGATTAATGTCCCCTAGTAATTTTTGAAAGTCATTTAATGTTTTCAAT   7500
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   7501 TGATCCCTACGTATAGTTACTTTCTGTGGCACAATGGTAGTGTCATTTAC   7550
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   7551 TAAGGTCCCCAAGTAGGAGTAAGGAGTAGTAGTCTGAATTTTGTCAGGAG   7600
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   7601 CTATATAATTAAACTGGCATGAGAAATCGAGTTTTGCAAGTGATCATAAC   7650
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   7651 ATTGGAGTAATATTTCTTGAGTGGGGGCAGCACAAAGTATATTATCCATA   7700
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   7701 TAATGAATAATGTAACACTGTGAAAATTTTTTACGAGTAGGTTCAATTGC   7750
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   7751 TTGCCCTTCATAAGTCTGGCAAATTTTTGAACTGTTTCACATGCCTTGTA   7800
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   7801 GCAACACTTTCCAATACAAATGCTTTAGTATGCTGCAGGTTTTTTACTGC   7850
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   7851 AGGAATTGTAAATGCAAACAGTTCACAGCCTTGCTCAGCTAAGGGGATAG   7900
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   7901 TAAAGAAACAGTCTTTTAAATTTATGACTATTAAAGGCCAATTTTTTGGA   7950
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   7951 ATCATAGCAGAAGAAGGCAGTCCCGGCTGCAATGTCCCCATAGGTTGTAT   8000
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   8001 AACTGAATTAATGGCTCTTAAGTCAGTTAACATTCTGCATTTACCTGATT   8050
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   8051 TTTTCTTAATTACAAAAACTGGAGAATTCCAAGGGGAAAATGTTGAGCTA   8100
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   8101 TGTGTCCTTTTTCTAATTGTTCAGCAACTAAGTCCTCTAAAGCCTCCAGT   8150
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   8151 TTCTCTTTACTCAGCAGCCATTGTGCTATCCAAATTGGCTTATCTGTTAA   8200
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   8201 CCATTTTAAAGGTATATAGGTTCTGGAGGCTTAACAATGGCCACCATCAA   8250
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   8251 AAATGATATCCTAAACCTTGGTGGGAACTTTGTCTTTCCGCTTGAAGCAT   8300
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   8301 TTCCTTCAAAGCTTGCAAATTTTTTCCTAGTCCCATACCAGGGACATACC   8350
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   8351 CCATTTCATGCATCATATGTTGACTTTGAGGGCTGTATAATTATTCTGGA   8400
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   8401 ATTAGAACTTGTGATCCCCATTGTTGTAATAAATCTCTTCCCTATAAATT   8450
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   8451 TATAGGTACAGAAGTTATAATTTTTTGTATAGTCCCAGGTTGTCCATTGG   8500
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   8501 GCCCTTCACAATGCAAAATATAACTACTTTGATATACTTTAAGGGCTTTA   8550
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   8551 CCAACTCCAACTATGTTAAATTGAGCAGGTTGAATTGACCATGCAGATGG   8600
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   8601 CCAGTGCTGTACAGAAATGATTGAAATGTCCGCTCCTGTATCTACCAAAC   8650
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   8651 TTTTAAATTTCTTTCCCTGAATAGTTATTTCACCAGTAGGATGTTTATCA   8700
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   8701 GTAATTTGATTCACCCAATAAGCTGCTTTGCCTTGTTTATTTGTGCTTCC   8750
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   8751 AAATCTTCCTGTTCATTTAATTTCACTTTTCCCCATTTCCACATATGGCA   8800
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   8801 TAATCAGGAGCTGTGCTATATGCTCTCCTGGCTCTGCTTTCCAGGGAACA   8850
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   8851 GAAGTAGATATAACAATTTGAATTTCCCCTTTGTAATCTGAATCAATGAC   8900
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   8901 TCCTGTTTGTACTTGCACGCCTTTTAAATTTAAACTAGACCTACCTAGAA   8950
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   8951 GTAATCCTACCATCCCCGCTGGCATCATCTGACTGGAGACAGCAACCTTC   9000
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   9001 TTTAACAGTCCCATTACAAAAGGAGAACCTGTTCCATATGGATTAATAGC   9050
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   9051 TTGTTTAAATTCTTTGAGTAATTTAAAAGGAAAAGGCTCAAATGTAGCTA   9100
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   9101 TAATATTTCCCTGTTGATCTACGGGGTATATTCTAACAGGGAACTGCTAA   9150
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   9151 GCCTCTATATCACCCTCTCTTCTAACTTGCTGAATTCCTGGCTGAATAGA   9200
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   9201 ACTGAGAGTGGTCGCTCGAGGTGCTGCTCAGTCACTGGGGCGACTACTTT   9250
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   9251 TTGCCCAGTGTCCTCTGGAAAAGAAAGATCTGGAGGATCAGGCTACTCTT   9300
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   9301 TTGCTTCGAAATAATGAGGGGGTGCAGAAGGGTAGGGACAAACCTCTCCC   9350
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   9351 TCCTTTGCCACTTTAGCTTTAGCTGGCAAACAAACCTGCTCTGTCACCTC   9400
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   9401 TTCTGTTACTTCATTATACTTTCCTTCCTCCTCATCTTTAGTGTGAAAAG   9450
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   9451 GTTCCAAGGTGGAATGAGCTAGAGCCCACACTTGCCCATTGTTACCCTGA   9500
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   9501 TGCTTCCGAGCTCCCCTTCTTACTCACCATGGGGATTGCTTAAGAGTACT   9550
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   9551 CGGGTATCCTCCAGCTTTGTTCCACGTTTTCCAACCATTGCTCCAGCGAG   9600
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   9601 CCTTCATCCTGGGTTTGAGTCCCCACGTTGGGCGCCACTTGCCGAGACCA   9650
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   9651 GCTCGGTCGTGGAGACCCTAACCCAGCAGTGCTAGAGGAATTAAAGACAC   9700
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   9701 ACACACAGAAACATAGAGTGTGGAGTGGGAAATCAGGGGATTCACAGCCT   9750
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   9751 TCAGAGCTGAGAGCCCTGAACAGAGATTTACCCACGTATTTATTGACAGC   9800
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   9801 AAGCCGGTGATAAGCATTATTTCTGTAGATTATAGATTAACTAAAAGTAT   9850
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   9851 TCCTTACAGGAAACAAAGGGATGGGCCAAAACAAAGCGATGGGCTCTGGC   9900
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   9901 TAGATATCTGCAGCAGGAACACGTCCTTAAGGCACAGATCGCTCATGCTA   9950
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153   9951 TTGTTTGTGGCTTAGGAATGCCTTAAGTGGTTTTCCATCTTGGGTGGACC  10000
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  10001 AGGTGTTCCTTGCCCTCATTCCAGTAAACCCACAACCTTCAGTGTGGGCG  10050
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  10051 TCATGGCCATCACAAACATGTCACAGTGCTGCAGAGATTTTGTTTATGGC  10100
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  10101 AAGATCTGGGGCCAGTTTATGGCCAGATTTGAGGGCCTGTTCCCAACAGT  10150
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  10151 GGACAAAGAAGAAAAGCTGCTTAAGGCAAACAGGCACATATTTTTTAAAG  10200
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  10201 CTACAATAGCTAGACAAACTAAGAGAATCCTGTGTATGTTTTACTTTTGT  10250
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  10251 ATTTTTATTTTTAATATTTGTGGATACATAGTAGATGTATATATTTATGG  10300
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  10301 GGCACTTGAGATATTTTGATACAGGCATACAATGGATAATAATAACATCA  10350
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  10351 CGGTAAAAGGGGTATCCATTACCTCAAGCATTTATCCTTTCTTTGTGTTA  10400
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  10401 TAAACAATCCAATTAAACCTTTTATCATAAAATGTACAATAATGTTGACT  10450
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  10451 GTGGTCACCCTGTTTTGCTATCAAAGAATAAATCTTATTCATTTTATCTA  10500
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  10501 AGTATATTTGTGTACCCATTAACCATCCCAGTCCCCCTGCTCCTCCAACT  10550
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  10551 ACACTTCCCAGCCTCTGTTAACCATCATTCTACTCTCTTATCTCCATGAG  10600
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  10601 TTCAATTGTTTTAATTTGTAGCTCCCACAAATAAGCGAGAACATGGGATG  10650
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  10651 TTTGTCTTTCTGTGCCTTATTTCACTTAACATAATATCCTCCAGTTCCAT  10700
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  10701 CCATGTTGTTATATGACAGAATTTCATTCTTTCTTATGGCTGAATAGTAC  10750
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  10751 CCCATTGTATATATATACCACATTTTCTTTATCCATTCATGTGTAGGTGG  10800
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  10801 ACACTTGGATTGCTTCTAGATCTTGGCTACTGTGAATAGTGCAGCACTAA  10850
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  10851 ACATGGGCGTGCAGATATCTCCTTGATATATTGATTTCCTTTATTTTGGG  10900
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  10901 TATATACCTAGCAGTGGGATTGCTGGATTGTGTGGTAGCTCTACTGTTAG  10950
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  10951 TCTTTTGAGGAACCTCCAAATTGTTCTCCATAGTGGTTGTACTAATTTAC  11000
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  11001 ATTCCCAACCAACAACAGTGTACAGGGTTCTGTTTTCTCCACATCCTTGC  11050
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  11051 AGCATTTTTATTGCCTGTCTTTTGGATAAAAGCCATTTTAACTGGGGTGA  11100
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  11101 AATGATATCTCATTGTAGTTTTGATTAGCATTTCTCTGATGATCATTGAT  11150
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  11151 GTTGAGCACCTTTTTATATATCTGTTTGCCATTCATGTGCCTTCTTTTGA  11200
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  11201 GAAATGTCTATTTAGATCTTTTGCCCATTTAAAAAATTGGATTATTAGAT  11250
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  11251 TTTTTTCCTATTGAGTTATTTGATCTCCTTATATATTCTGGTTATTAATC  11300
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  11301 CCCTTTCAAATGGATAGTTTGTGAATATTTTCTCCCATTCTGTGTATTGC  11350
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  11351 CTCTGCACTTTGTTGATTATTTAATTTGCTATGCAGAAACTTTTTAACTT  11400
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  11401 GATGTGATCCCTTTTGCTCATTTTTGCTTTGGTTGCCTATGCTTGTGGGG  11450
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  11451 TATGACTTAAGAAATCTTTGCCCAGACCAATGTCATGGAGAGTTTTCTTA  11500
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  11501 ATGTTTTCTTTTAATAGTTTCATAGTTTGATGTCTTAGATTTAAGTCTTT  11550
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  11551 AATCTATTTTGTTTTTATTTTTGTATATGGCAAGATATAGGGGTCTAGTT  11600
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  11601 TCTTCCGCATATGGATATCTACTTTTCCCAGTACCATTTGTTGAAGAGAC  11650
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  11651 TGTCCTTTCTGCAATGTATGTTCTTGACACTTTTATTGAAAATGAATTCA  11700
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  11701 CTGTAGATGTGTGGATTTGTTTCTGGGTTCTCTATTCTGTTCTGTTGTTC  11750
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  11751 TGTGTGTCTGTTTTTATGCCAGTACCATTCTGTTTTAGTTACTATAGCTC  11800
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  11801 TGTAGTATAATTTTAAGTCAGATAATGTGATTCCTCCAGTTTTGTTCTTT  11850
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  11851 TTGCTCAGAATAGCTCTGGCTATTCTGGGTCTTTTGTGGTTTCATGTAAA  11900
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  11901 TTTTAGGATTATATTTTATTAACATATTTCTGTGAAGAATGTCATTGGTA  11950
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  11951 TTTTGATAGGAACTGCATTAAATCTATAGATTGCTTTGGGTAGTAAGGAT  12000
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  12001 ATTTTAACAATATTGATTTTTCCAATCCATGAACATGGAATATCTTTCCA  12050
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  12051 TTTTTTGGTGTCCTCTTTAATTTCTTGCATCAGTGTTTATAGTGTTTCTT  12100
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  12101 TCATCAGTGTTTATAGTTTTCATTGTAGAGATCTTTTACTCCTTTGATTA  12150
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  12151 AGTTTATTCCTGGGTATTTTATTTGTAGCTGTTGTAGACGAGATTACTAT  12200
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  12201 CTTGATTTCTTTTTCAGATTGTTCACTGTTGGCATATACAAATGCTACTG  12250
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  12251 ATTTTTGTATGTTGATTTTGTATACTACAATTTCACTGAATTTGCTTATT  12300
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  12301 ACAGAGAGACTAAAGATAGTTAGGTCCATTACCAAATGTGTTTTCTGTCA  12350
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  12351 CATTGAAAAATTATACCATGAGAAGGCACATGCTTCTAGTAATTACAGTT  12400
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  12401 CATAGATATGTCAATGTACAGAATGCTGGTGTGACAGTTCACAATTGTTT  12450
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  12451 GCTTTATAGTTTTCACTGGAAATTAAATTACTAAGGGTAAAGTAATCCCA  12500
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  12501 GCACTGTGGGAAGCTGAGGCAGGATGATTGCTTAATGCCAGGAGTTTGAG  12550
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  12551 ACCAGCTGGGGCAATGTAGCATGAGCCCATCTACAAAAAAAAAAAGGAAT  12600
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  12601 TCTAATTAATATGTGGTACTAGAATTACCAGAAATAATAAGGGAAACAAC  12650
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  12651 TCGGAAAAGAAGGTAAGATGTGTTTTGGGTAAGAACAGCTATAAAGTATG  12700
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  12701 AGGGGATGTTTTGTTTTGTTAAGGAAAAAATAAAATAATATTTGTCCTAA  12750
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  12751 AGTAGAATGCCTGGTTGTTAAGACAATGAGAAAGAGAAAGAGTATAGAAG  12800
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  12801 AAAAACTGAATGGATATAAGAAAGTTGTAGAAGGTTGTGGGATAGGAATC  12850
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  12851 CTGGAAAGGGAATTTTATATGTGATCAAACTAAGATTTGAAGAAAATTCT  12900
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  12901 AAGTTTTTTTTTAAAAAAATTGAGCATGAATATCAAAAACATACTGACAC  12950
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  12951 AGAACTAGAAATTTGTCCTCTATGTTAAAACAACAAGGTTTTCTTGGAGT  13000
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  13001 ATTGGTCTGCTCTTAATAAGAAATTGAAAGACTTTTCTTTACCTGCTAAG  13050
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  13051 TAATTGGCCTAGGAAATGAAGATTCTGTGTTTTATTGAGATAATTTATTG  13100
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  13101 TGCTTCATGTTGTCTTTATTAGATCTTTGACTGCCTCAGAGACCTGAGTT  13150
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  13151 CACCTTATTAAAAGAGAAAGAGTTTCTACAATTATGTGGCTTTCTTTATT  13200
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  13201 TGCCTTTGAAGTCTTTTACCAATCACTCTAGTTAAATGAATAAATATTGT  13250
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  13251 TTCATAGGGACCTGTGATCCTATTTTAATCAGATATTTTAAACCTTTTGA  13300
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  13301 TATTTTTGACTTCTCAAAATCAAATTCTAAATTAAAACCTTTTGACGTTG  13350
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  13351 AACAAACTTTGGAAGCTTCTAGATGGGCTTCTGGAATATCTCAAAAGAAA  13400
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  13401 TTGTTTTCTCTCCTGATAAAAAAGAGAGATATTAAACTAATTGGGCTTAT  13450
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  13451 TTGATATGTTATATTGCATGGGAAGAATTGTTAAATTATAAGTGATGCTG  13500
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  13501 AACTTTCTTTAAGTCATATTGTATGGGTATGTTATTAATATGTGCTTCAG  13550
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  13551 AAATTATATGAAATTCTTAGAAACCAGATAGTCGTGGTATAATACTATCA  13600
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  13601 GCCAAAATTCTAATTATCGTGAAATATTATGTGTTGCAGAAGTAATACAA  13650
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  13651 TTTCCTTATCAATTGCATTATTGTGAACTCTCATCATATCTTTAACCAAG  13700
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  13701 TCCATTTTAAGCTTTGTCATCTACAAAGAGTCACTTGTTTTACTCTGGTA  13750
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  13751 CTTTCCGGAACACTGTGAAAAACAATTATATAAAGGGTGTGGACCTATAA  13800
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  13801 GACAAACAACCAAACAAAAATCGTAAAGTGTTCTTTTAAAAGATTCGTGG  13850
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  13851 AAAGGACTCTGATAAGTACAGGTTTCTGATAACTTTAAGATCATACTACT  13900
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  13901 GGACTGGGTAAGAATTTCCAGAACTCTAGCAAAGAAGTGGATTGGTTCAT  13950
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  13951 AAAACTGCCAACCCAACATGAAGCAGAATAAGAATTAATTGAATACCAGG  14000
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  14001 GAAATGCTTTGGCAGATTTTCATGCTAAGTCAGCCAGTACTGAAATTGTT  14050
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  14051 AAGATATGCAATTTGAAAGAACACTATAATATTCATCTGAATCAAATTAT  14100
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  14101 CTATGATAACCTATTTAAATGAACAGCATCATGCACCTGAATTGGAGAAA  14150
+                                                                       
+c83749045-837      1 --------------------------------------------------      0
+
+153684280-153  14151 CAAAACTGATATTTAAAATGATATAAATTTAGTGTTAAATGTGGCCTCAT  14200
+                                                    |..|....||||| |||  
+c83749045-837      1 -------------------------------GCCTGCCCTGTGG-CTC--     16
+
+153684280-153  14201 GGATCAGACAGCTATCTGGT-CCTTTCTGAGTCCATATAGCTG-CCATTA  14248
+                         |.|.||||  ||||.| ||...||..||.|...|.||.| ||..|.
+c83749045-837     17 ----CTGCCAGC--TCTGATGCCAGGCTCCGTTCCCCTTGCAGACCCCTG     60
+
+153684280-153  14249 TTAAAAGTTCTGCACTCTATGACTCATC----ACAG-AATAGATAACGTG  14293
+                     |     |..|.||.||   ||.|.||.|    .|.| ..|.|..|.||.|
+c83749045-837     61 T-----GGGCGGCGCT---TGCCGCACCGGGGGCGGTGCTGGCGACCGGG    102
+
+153684280-153  14294 AAATTATGAAAAAATATTGGTGTTATGACTGTTCTAAAATTGCTAAAATG  14343
+                     ||.||.            ||.|...||||                  .||
+c83749045-837    103 AAGTTC------------GGGGCCCTGAC------------------CTG    122
+
+153684280-153  14344 GCTTATAATCAATGTTTGGTTTGTCAAATCCACAATTTTTATAAGATAAT  14393
+                     |                ||      |.||||.|  ||             
+c83749045-837    123 G----------------GG------ACATCCCC--TT-------------    135
+
+153684280-153  14394 AAAAACCTCAGTT---GGTACATTTCCACCATCCACTGGACTATTTGAAC  14440
+                         .|||||.||   |||.   |||...|.||  ||.|.||.   |..|
+c83749045-837    136 ----CCCTCACTTCCAGGTC---TTCAGTCTTC--CTAGGCTG---GTGC    173
+
+153684280-153  14441 ATTTACAGATGGATTGCATTCAGTTGCCTCATTGGGAATCTGC------A  14484
+                         .|||||||.|       |||.|.|.|   |||.|.|.||      |
+c83749045-837    174 ----CCAGATGGCT-------AGTGGGCAC---GGGGAGCGGCGGCTGGA    209
+
+153684280-153  14485 GGAAACTTAAGTAAATGCTGGATATGTCATGTTGAACCAAATACTAATAT  14534
+                     |||..|.||.|||   |.|||||..|||.||.||  ||...|       |
+c83749045-837    210 GGACTCCTAGGTA---GGTGGATCGGTCCTGCTG--CCGGGT-------T    247
+
+153684280-153  14535 GCTTTTAAAGATCTTCTAATTCACCCTATAGCAGATTTCACTGATATTCC  14584
+                     ||                 |.|||||            |.|       ||
+c83749045-837    248 GC-----------------TGCACCC------------CTC-------CC    261
+
+153684280-153  14585 AAGTGTGACTACCTGTTCAAATTGCACATCTGGTCTTTCTATAGGGTTAG  14634
+                     ..|       ||..|.||.|||.| ||  |.||.|...|      |.|..
+c83749045-837    262 CGG-------ACAGGGTCGAATCG-AC--CGGGGCGGCC------GCTGT    295
+
+153684280-153  14635 GCTTTTTGAGTCACATATTCAGATTTCATGTTTAAAGCTAACAGTAGACA  14684
+                     |||.|..|.|. ||     |.|.||||.....|.|||| |.|.|....|.
+c83749045-837    296 GCTGTGCGGGG-AC-----CTGGTTTCCAAAGTGAAGC-ACCTGCGCCCC    338
+
+153684280-153  14685 AAACATATAGGAGAGGCTTT----ACAGTTAAATTATTCCAGAAACTGAA  14730
+                     .|.|.....|||...|||||    .|||.|...|..||||.|   |||  
+c83749045-837    339 CAGCCGGGCGGATCAGCTTTGGGGCCAGATGTTTGTTTCCTG---CTG--    383
+
+153684280-153  14731 TAATAAAACCAAAAGG-AGAGATAATTAGACAGTTTGTAGACGAATTCAT  14779
+                        |.|..||...||| ||||      .|||                   
+c83749045-837    384 ---TGATCCCTGCAGGAAGAG------GGAC-------------------    405
+
+153684280-153  14780 AACCCTAATTCTCTAATTGTTGGTAGCCTCCATTGATGATAATTAATAGT  14829
+                      ||||..       ....| .||..|||.||                 |.
+c83749045-837    406 -ACCCAG-------GGAAG-AGGGGGCCACC-----------------GG    429
+
+153684280-153  14830 GGAGCCTTAGATAAATACTACTATTGCTTCCCCGTTGATGACCCCTGTAG  14879
+                     .||||                   |||..||.|     ||.|||  ..||
+c83749045-837    430 AGAGC-------------------TGCAGCCAC-----TGTCCC--AGAG    453
+
+153684280-153  14880 CACACAGTGTCCCACAGGGAACT--GTCTCTTGTGCCCCTCTAGCATATA  14927
+                     |.|.|.|     |...|.||.||  ||||.|...|||..|||.||    .
+c83749045-837    454 CCCGCGG-----CTGTGTGATCTGCGTCTTTACAGCCTTTCTGGC----C    494
+
+153684280-153  14928 TTTTTATCTATGAAGGATTTAACTATCAATCATAGGCACAGGCAACTCCA  14977
+                     .|....||...|||||...|..||.|     |..|.|.|.|         
+c83749045-837    495 CTGGGGTCACAGAAGGGAGTGTCTGT-----AGTGTCTCTG---------    530
+
+153684280-153  14978 TGTCCCAGTCAGTAGGAAATAAGAAGTCAGTGTGGATTAGGGATTCTAAC  15027
+                      ..|||.|             .||||..||.|||             |||
+c83749045-837    531 -AACCCTG-------------GGAAGCTAGGGTG-------------AAC    553
+
+153684280-153  15028 AGTACCACTGTCACTCCATAACCAACTGAAAATTTGACATTGTTCTATAC  15077
+                     .||..|.|||||         ||||||.|.|            ||.|..|
+c83749045-837    554 GGTGACGCTGTC---------CCAACTTACA------------TCCAGTC    582
+
+153684280-153  15078 CTCTTAATTTGCACTATGGTATAAAAAGGAACTTTCTAGCAGGTACGAAT  15127
+                     |.|        |.||.|..|.|....|||..|   |..|||||  || .|
+c83749045-837    583 CAC--------CCCTCTCTTGTCCCCAGGCTC---CGGGCAGG--CG-GT    618
+
+153684280-153  15128 CCCTCTAAATGGGCATCTTTTGTTCAAATGCTCCTTCCCTGGCTTGGAAT  15177
+                     |.||       ||||.....|||.       |||       ||    |||
+c83749045-837    619 CACT-------GGCAGGAGATGTG-------TCC-------GC----AAT    643
+
+153684280-153  15178 AAATGTAAATGA-GGTTATGATTAGAAATCCCCTTCAAACATTAGCTACT  15226
+                     .|..||...||| |||.|.|.||.|                         
+c83749045-837    644 CATAGTTTCTGATGGTGAAGGTTGG-------------------------    668
+
+153684280-153  15227 ACAGCTCACTCTACTGCAAAGGCTATATAGTTGCCCAG-TGAAGTTCTCT  15275
+                     ||.||...||||.|..|     |||.| |||.|...|| ||..||||...
+c83749045-837    669 ACGGCAGTCTCTGCGAC-----CTAGA-AGTGGAAAAGATGTCGTTCAAG    712
+
+153684280-153  15276 AAATTCTCTTGCTAAAGTTTCTTTAAATAACAGGATTGCCTTGAACTATC  15325
+                     .|..| .|...||   |||||.||... |.||||||   ||||   |.||
+c83749045-837    713 GAGGT-GCGGACT---GTTTCCTTCTG-ACCAGGAT---CTTG---TTTC    751
+
+153684280-153  15326 TGTTGGTTTGTAGTGGGGCAGGGGGTGTGATAGGGGACACTGTGTATAAT  15375
+                     ||         ||||               ||||||...|          
+c83749045-837    752 TG---------AGTG---------------TAGGGGCTTC----------    767
+
+153684280-153  15376 AGCTAATACATC-CTACTGCACTTGCATAAAGGAATCTGTTATAAAGAAA  15424
+                            ||.|| ||.||...|.|.|||      .||||....|....||
+c83749045-837    768 -------ACTTCTCTGCTTTTCGTTCAT------CTCTGGAGCATCCGAA    804
+
+153684280-153  15425 ATGAAATAAAGGTATAAAAGTTGGCAAGAAGAAAACCATCATTATGTCTT  15474
+                     .||.|..|..|||               .|||||||.|         || 
+c83749045-837    805 TTGCATCACCGGT---------------CAGAAAACAA---------CT-    829
+
+153684280-153  15475 GAGGATGATTGGGGATACAGAAAATGAGAAGAATCCACAAACTATTAGAA  15524
+                                    |||.||||           ||.||.||.|      
+c83749045-837    830 ---------------TACCGAAA-----------CCTCAGACAA------    847
+
+153684280-153  15525 TTACTAAGTTAATTTAGCAAGGTTGCTCAATGCATGGTCAGTATACAAAA  15574
+                                    |||           .||..|||  |||       .
+c83749045-837    848 ---------------AGC-----------GTGAGTGG--AGT-------C    862
+
+153684280-153  15575 TTTAATTGAATTTCTACATATATGTATATGCCATATTGTGTTAGATTGTT  15624
+                     |||.|.|.|.|.|||           ||||.|.|.||             
+c83749045-837    863 TTTTAATAAGTATCT-----------TATGACTTCTT-------------    888
+
+153684280-153  15625 TTGCATTGCTATAAGGGAATACCTGAAGCTGGGTAATTTATAAAGAAAAG  15674
+                        ||.|.||||||..||..||||     ||.|   ||||.|.       
+c83749045-837    889 ---CAGTCCTATAAACGAGAACCT-----TGTG---TTTACAT-------    920
+
+153684280-153  15675 AGGCTTATTTGGCTCATGGTTCTGCAGGCTGTACAAGCATGGCACTAGCA  15724
+                        ||||..||  |||.|    ...|||||.|.|.||             
+c83749045-837    921 ---CTTAGATG--TCAGG----AAAAGGCTTTTCTAG-------------    948
+
+153684280-153  15725 TCTGTTTGACCTTAGGAAGCCTTTACTCATGGTGGAAGAAGGGGGAGCAG  15774
+                                           ||.|         ||.||||      ||
+c83749045-837    949 ----------------------TTTC---------AAAAAGG------AG    961
+
+153684280-153  15775 GCATGTCATATAGTGAGAGAGGGAGTGAGAGGGAGGGAGCAAGAGTGAAG  15824
+                     ..||.|.||.|        .|||.||.|.|.|                  
+c83749045-837    962 AAATATTATTT--------CGGGTGTAAAACG------------------    985
+
+153684280-153  15825 GGGGAGGTCCCAGACTCTTTTTAAATAACCTGAAATCCTGTGAACAGAGT  15874
+                                   |||     |.||..||||.|..|.|.|||.|.||..
+c83749045-837    986 --------------CTC-----AGATTGCCTGGAGGCTTTTGATCTGACA   1016
+
+153684280-153  15875 GAAAACTAACTTATTACCATGAAGAGCACACCAAGCCATTCATGAGGGGT  15924
+                     ||||..|  |||    |....|||||||            .|||...|||
+c83749045-837   1017 GAAAGTT--CTT----CAGCAAAGAGCA------------AATGGTAGGT   1048
+
+153684280-153  15925 ATACCTTCATGACCCAAACGCTTTCCACCAGGTCCTACCTTCAACACTGG  15974
+                     |......|..|||.||.|||.......||...||||.||     ||...|
+c83749045-837   1049 AAGGTGGCTGGACTCAGACGGAGAGACCCTTTTCCTCCC-----CAAAAG   1093
+
+153684280-153  15975 GGATCACATTTCAACATGAGATTTGGAGAGGACAAACATCCAAATCATAT  16024
+                     ||| .|.|||     |||||...||||      |||.|||    |.||.|
+c83749045-837   1094 GGA-AATATT-----ATGAGTACTGGA------AAATATC----TTATTT   1127
+
+153684280-153  16025 CACATATATAAATATGTAAAACTATTTTAAATGTTTTTAAAGTATCGAAT  16074
+                     |||.....|..|..|.|.....|.|||| ..||||||| ..||.| |..|
+c83749045-837   1128 CACTACACTCGAAGTTTTTTGTTGTTTT-TTTGTTTTT-TTGTTT-GTTT   1174
+
+153684280-153  16075 AGAAATAAATCTCACAAAATATGCTTAAGAACTTTAAGCAAAAACCATAA  16124
+                     .|...|...|.|.......|.||.||......|.||||||||.|.||...
+c83749045-837   1175 TGTTTTTGTTTTGTTTTGTTTTGTTTTTCTGTTCTAAGCAAAGAACACTT   1224
+
+153684280-153  16125 AATACTATTGTGATAAGTTAAAGAAGACCTAAATAAATGGAGAGATCTGT  16174
+                     ....||.......|.|.|||..|||.||..|||             |||.
+c83749045-837   1225 GCACCTTAAACCTTTAATTAGTGAATACAAAAA-------------CTGC   1261
+
+153684280-153  16175 CATGCTCATGGATTGGAAGATTCAATACTGTAATGATATGAATAGTTCCC  16224
+                     ||.||      ||||           ||.|| |||.|.||.|        
+c83749045-837   1262 CAGGC------ATTG-----------ACAGT-ATGTTTTGGA--------   1285
+
+153684280-153  16225 AAATTGTTCTATAGATTCAAAACATTGCC-AGTTAAAATCTCAGTGGACT  16273
+                                 ||.|||.||.|  |.|| ||||               |
+c83749045-837   1286 ------------AGTTTCTAAGC--TACCAAGTT---------------T   1306
+
+153684280-153  16274 TTGTTTTTTTGAAACTGACAAGCTGATTCTGCCATTTATAA--TAATATT  16321
+                     ||||||.||||.           |..|||| ..||||||||  |||.|||
+c83749045-837   1307 TTGTTTGTTTGT-----------TTGTTCT-AAATTTATAAGTTAACATT   1344
+
+153684280-153  16322 CAAAGGGGCAAGAATAACCAAGACACATTTGAAGAAGAACAAGGAGGAAG  16371
+                     .||.|||..|||  |..||||        ||||.||..||.         
+c83749045-837   1345 TAACGGGATAAG--TGCCCAA--------TGAAAAATCACC---------   1375
+
+153684280-153  16372 AAGAACGTATTTGAAGAAGAATAAGGAACTCTATTAAGTGTATATCTCCT  16421
+                        ..|..||||.||||||    .|.|.|    ||||| |.|.|.|.|.|
+c83749045-837   1376 ---CTCCCATTTAAAGAAG----TGAAGC----TTAAG-GGAGAACACTT   1413
+
+153684280-153  16422 ATATATTGAGATACACATTTGAAATACATCTATCACCTAGATATTGAGAT  16471
+                     | |.||.|.||.|||..|..|||      |..|||               
+c83749045-837   1414 A-ACATAGGGAAACAATTCAGAA------CGTTCA---------------   1441
+
+153684280-153  16472 ATATTATACATTTAATATAGTGTGTTGCTGGTATAGGGATAGACAAATGA  16521
+                                           |..|||                     |
+c83749045-837   1442 ----------------------TAATGC---------------------A   1448
+
+153684280-153  16522 AC-ATTGGATCAGAATAGCACTGAAACAAGATCTACCCCTATATGGGCAT  16570
+                     || ||||||       |||                |.||           
+c83749045-837   1449 ACGATTGGA-------AGC----------------CTCC-----------   1464
+
+153684280-153  16571 GTCCCTATTAACAAAAAAATATTGTTGATTATTTCCTCAAGATGATCTGT  16620
+                       .|.||||||..|.|....||.|..|.|..||..||.|| |||||    
+c83749045-837   1465 --ACATATTAATTATATTGAATAGAAGGTACTTCACTTAA-ATGAT----   1507
+
+153684280-153  16621 AAAAAACAAGTTAATTGAACATCCATATGGGAAAAAAGTGAATCCTTCTG  16670
+                           |||||||.|.|  |.||     .|||||.||.|.|   |.|||.
+c83749045-837   1508 ------CAAGTTAGTAG--CGTC-----AGGAAAGAATTAA---CATCTA   1541
+
+153684280-153  16671 CTACCTCAAATATCAACCCCAGGTAGATTATAGATCTAAAAGTGAAAGGC  16720
+                     |.||||      .|||.|..|||            ||          |||
+c83749045-837   1542 CAACCT------ACAATCATAGG------------CT----------GGC   1563
+
+153684280-153  16721 AAAGCAATAAAGATTTTAGAAAATAACAAAGAGAATATCTTTATGAAAAT  16770
+                     ..|||        ||||           ..||||...|||          
+c83749045-837   1564 TTAGC--------TTTT-----------TTGAGATGGTCT----------   1584
+
+153684280-153  16771 ACAGGAAATATTTTAAAAATAGGCTAGAAAACTCACTATTAAAATATATA  16820
+                      ||||...|||           ||| ||.|.|.|                
+c83749045-837   1585 -CAGGCCTTAT-----------GCT-GAGACCGC----------------   1605
+
+153684280-153  16821 AAATATAAGAACATCTGTTCATCAAAAGTACTATAGTTTGAATAGCAGTG  16870
+                              |||      |||||            ||.|||.|.....||
+c83749045-837   1606 ---------AAC------TCATC------------GTGTGATTGTGGATG   1628
+
+153684280-153  16871 TCT----CCTCCAAAATTCATATTGAAACTTAATCCCCATTGTAACAGTA  16916
+                     |||    .||.|..|.|||         ||...|||.|       |.|  
+c83749045-837   1629 TCTTTGAACTACTGACTTC---------CTGCCTCCGC-------CTG--   1660
+
+153684280-153  16917 CTAATCCTAAAACTAAGTATTAAGAGGTGTGACCTGTGGGAAGTGACTAA  16966
+                          |||.|..|||.||.|..|.|..||||.|||||      |.|.|.|
+c83749045-837   1661 -----CCTGAGTCTAGGTGTCCACAACTGTGCCCTGT------TTATTCA   1699
+
+153684280-153  16967 GTCATGAGGGGTCTTTCCTCAGGTATGGGATTAGCATCCTTATAAAAGGC  17016
+                     |||.|| |||||| ...|.||   |||      ||||.||...|||..||
+c83749045-837   1700 GTCCTG-GGGGTC-AAACACA---ATG------GCATACTAGCAAAGTGC   1738
+
+153684280-153  17017 CTTGAGATGGAATGTAGTGCCCCCTTGCCCTCTTGCGTTCTCCCATGTGA  17066
+                                      |.|...|..||     |||   .|||||     
+c83749045-837   1739 -----------------TACAGACAAGC-----TGC---ATCCCA-----   1758
+
+153684280-153  17067 GGACACAGCAACAAGGCACCATCTTGGAAGGAGAGAGAAGCCCTCACCAG  17116
+                      |.|.||        .|.||..||..|...||||.|||..||.|    ||
+c83749045-837   1759 -GGCCCA--------TCGCCTGCTGTGTCTGAGATAGATTCCTT----AG   1795
+
+153684280-153  17117 ACAACAGTGCACATGCCTTGATCTTAGACTTCCCAGC-CTCCAG---AGC  17162
+                           |.||||.......||...|..|| ..||||| .||.||   |||
+c83749045-837   1796 ------GGGCACTAAAGGGGAAAATGTAC-AACCAGCTATCAAGAGAAGC   1838
+
+153684280-153  17163 TATAATAAATACAT----------TTCTGTTCTTTATAAATTACTTGGTC  17202
+                     |.|...|...|..|          .||||  |..||...|.||||||   
+c83749045-837   1839 TGTGGGAGGGAGGTGGAGAGGTGGATCTG--CAGTAAGGAGTACTTG---   1883
+
+153684280-153  17203 TCTGGTATTTTGTTACAGAAGCACTAATGGACTAAGACAAAAAGATTCCA  17252
+                      |||.|.|.|     ||||.|..|   |||.||.||         |||| 
+c83749045-837   1884 -CTGATCTCT-----CAGAGGACC---TGGGCTCAG---------TTCC-   1914
+
+153684280-153  17253 TTATGAAAGTGAAAAGGCAACCGCAGAGTGGCAGAAGCTTTTGGAGATGA  17302
+                                   ...||.||.||..||...||..|||.|         
+c83749045-837   1915 --------------CAACACCCACATGGTTATAGGGGCTCT---------   1941
+
+153684280-153  17303 TGAATATGTTTACTTCCTGGATTGCGGTGATGATACCATGAGTGTATACA  17352
+                         .||||   ||||.|   |||                     .|.||
+c83749045-837   1942 ----CATGT---CTTCAT---TTG---------------------GTCCA   1960
+
+153684280-153  17353 TATGTGTGTATACATAATGTATACAAATTGTGTTCATTGATTATGTACAG  17402
+                     .|||||...||.||......|.||         ||           |||.
+c83749045-837   1961 CATGTGCACATTCAGGCAAAACAC---------TC-----------ACAC   1990
+
+153684280-153  17403 TTTCTTTGTATACCAATTATACCTTAATAAAGCTAAGGAAAAAAAAAAGA  17452
+                     ..||     |||||   ||||||.||.....||....|..|         
+c83749045-837   1991 ACTC-----ATACC---TATACCATACAGTGGCACTTGCCA---------   2023
+
+153684280-153  17453 AAATCCAGAATAAATATGCATGGTATGACCCATTTATTTAAAAAAAAAAA  17502
+                         ||||         ||.||  |||||||                   
+c83749045-837   2024 ----CCAG---------GCCTG--ATGACCC-------------------   2039
+
+153684280-153  17503 GAGGGAATGC----GAAGCAGTGGTTTTGGTGCGAACACAAAAATTCTGG  17548
+                     |||...|..|    |||.||     ..||||| |||....|.||  ||||
+c83749045-837   2040 GAGCTCAATCCCCAGAACCA-----CATGGTG-GAAAGAGAGAA--CTGG   2081
+
+153684280-153  17549 CTTCAACAGCATTTAAATTCCCAAACCAAGCATGTTTGTGTTTTAATTCT  17598
+                     ||||..||  |.||.   |||...|.|...||..||||.||..||...|.
+c83749045-837   2082 CTTCCTCA--AATTG---TCCTCTAACTTCCACATTTGGGTAGTAGCGCA   2126
+
+153684280-153  17599 TTGTGGCCATAAATTGTACAGCTCAGGCCTTTATAGTCTCTCAGATTCTG  17648
+                     .....|||||.          |.|...||.|||        ||||     
+c83749045-837   2127 CGTATGCCATC----------CCCCAACCATTA--------CAGA-----   2153
+
+153684280-153  17649 TGAATGTGGGGAATTAGTTTTACTCATAAAAAGTTTTGTTCTTGGGGATA  17698
+                                    ||       |||||||..|.||    |||||    
+c83749045-837   2154 ---------------AG-------CATAAAACATATT----TTGGG----   2173
+
+153684280-153  17699 AATTTTTTAAAAAAATTTTTGTATAGTTAGCACACTGAGAAAATACAGAC  17748
+                                 |||||.|||   .||||...|||||||.||||| .|||
+c83749045-837   2174 ------------AAATTGTTG---CGTTATTTCACTGAGCAAATA-TGAC   2207
+
+153684280-153  17749 AAAGGCATACAGATGCAAGAAATGAGGTAGC-TGAATAGACCAAAGAATG  17797
+                     .|..||             |..||.|||.|| ||.|....|.|.||   |
+c83749045-837   2208 CACAGC-------------ACGTGTGGTTGCATGGAACAGCTACAG---G   2241
+
+153684280-153  17798 ATATAGGGCCCAGAAGGTAGGCAAAGAGAAAGTTGTTGGGTTTATGGTTA  17847
+                     .|||||||||||||||||...|...||||......||||.||.    |..
+c83749045-837   2242 GTATAGGGCCCAGAAGGTGCCCTGGGAGACGAGCCTTGGATTC----TCC   2287
+
+153684280-153  17848 CAAGTAAACTAGC---AGTTGTGGTGCAGATAGTTTTATTTCCCCCACAT  17894
+                     ||.|.||.|...|   .|..|||..|||.|.....||||||||....|||
+c83749045-837   2288 CAGGAAAGCATACTGGGGAAGTGAGGCAAACTACCTTATTTCCTTTTCAT   2337
+
+153684280-153  17895 TAATCTGAACAGCCCATCCAGACTTAAACACTGCTTTTTGCATTTACTT-  17943
+                     |.||||.|..||||.|||..|..||..||||.|||||.  |....|||| 
+c83749045-837   2338 TCATCTAAGTAGCCAATCTGGGATTGGACACAGCTTTC--CGAGAACTTA   2385
+
+153684280-153  17944 -CTAGGCAGGAAGACAGGGTTCTGATGG--TGTGAGTCTCCTTCAACTCA  17990
+                      ||..||||.|.||.|.|||||||..||  ||...||||||.||||.|..
+c83749045-837   2386 ACTCAGCAGAATGAGAAGGTTCTGGGGGCCTGAATGTCTCCCTCAATTTG   2435
+
+153684280-153  17991 GCAAAC------CACCTTGGTCTGCCTCGAGTTTCCAACACCCCTCCTGC  18034
+                     |||.||      |.|||.  |||||||.|.|.|....|||..|||..||.
+c83749045-837   2436 GCAGACTATTGACGCCTC--TCTGCCTAGGGCTCTAGACATTCCTTTTGT   2483
+
+153684280-153  18035 CTGCTAGTGATAGGTGTGAGGCAGGTTGATGAACATGGAACTTTTTTCTT  18084
+                     |||.||||..||||.|..||||||..||| |.|   ||  ||.|||.|  
+c83749045-837   2484 CTGGTAGTAGTAGGAGCAAGGCAGAGTGA-GTA---GG--CTGTTTCC--   2525
+
+153684280-153  18085 TTGGTCCCAAAGCATGCTACTCCTGGAGTTTCATTCAGTGAATGAGAACT  18134
+                        ||.||                           ||||||         
+c83749045-837   2526 ---GTGCC---------------------------CAGTGA---------   2536
+
+153684280-153  18135 ATAGTTTGGTTCTGTGAGATCTCTATGAATCAAGGCGGCCACTGAAGCGG  18184
+                                    ||||||.|   |.|.||||| |..||.|||...|.
+c83749045-837   2537 ---------------GAGATCAC---GGACCAAGG-GAGCAATGAGTTGA   2567
+
+153684280-153  18185 AGAAAAGAAATGCT---TAAATGTTAAGAAAGTTTGAAGTGCAGAAAAAG  18231
+                     ..||.|||.||.||   |.|..|||   ||||.|.|.||. |.|..|...
+c83749045-837   2568 GTAAGAGACATCCTTGGTGAGCGTT---AAAGATAGGAGC-CCGCCACTA   2613
+
+153684280-153  18232 GTGATTGTAAATCCATATGGTTAAGCTTAGCCCATTTCTTAAAAGGCTTG  18281
+                     |.|       |.||||| ||..|....|||..||||||||.||...||..
+c83749045-837   2614 GAG-------AGCCATA-GGCCACATCTAGTTCATTTCTTTAACTACTGA   2655
+
+153684280-153  18282 ATTGCTCATTCCTCCATTCATTGATTTACTCACTCTTCCAATCCATGTTA  18331
+                     .|||.||||||  .|||||||...||||  ...||..||.|  ||| |||
+c83749045-837   2656 CTTGTTCATTC--TCATTCATCTGTTTA--TGTTCAACCCA--CAT-TTA   2698
+
+153684280-153  18332 TTGAGTCTTGCTCTGTAATTCCGGATGGTTGTGCTTTTAAGTACTGCATA  18381
+                     |||||||.||...|||..||   |.||.||.|||.|.|.||  .|| ||.
+c83749045-837   2699 TTGAGTCCTGTGTTGTTGTT---GTTGTTTTTGCCTCTCAG--ATG-ATT   2742
+
+153684280-153  18382 GTGGTTGTATGTCTGTGTTAGC-ATTG---CTGAATGTATCAGGGAATTC  18427
+                     ||..||...|.|||...|..|| ||||   |||.||.||.||  .||||.
+c83749045-837   2743 GTTTTTACGTTTCTTCATCTGCTATTGCTACTGTATATAACA--AAATTA   2790
+
+153684280-153  18428 ATTTTTTTATCCCCATTCATTCGTTCCATTCATCTGTTTCTCTCTCTCTC  18477
+                     ||||||...|         |||.|||...|..|.|||||..||.|..||.
+c83749045-837   2791 ATTTTTAATT---------TTCATTCATGTATTGTGTTTGCCTGTAACTT   2831
+
+153684280-153  18478 TCTCTTTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTG  18527
+                     ..||.|||..||.|.|.|.|.|...|...|...|.|.|...|.|.|..||
+c83749045-837   2832 ATTCCTTGCATGAGGGAGAGAGACAGAAAGACAGAGAGACAGAGAGAATG   2881
+
+153684280-153  18528 TTATGCCTAGAAAACATTTCTCAAGAATTAGAATTACGATATGCTGTCAA  18577
+                     |        |||.         |||..|.|.|||.|.||||||...|||.
+c83749045-837   2882 T--------GAAT---------AAGCGTGATAATAATGATATGTCCTCAG   2914
+
+153684280-153  18578 ACACAATGACTTATTTGAACCTCTTTTATTTGTAGGTTGAAGCACTGGAC  18627
+                     |.|||.|.|||.|..|||.|.||.|||.|||..||||..||.|.| .||.
+c83749045-837   2915 ATACACTCACTCACATGAGCGTCATTTGTTTTAAGGTCAAATCTC-AGAG   2963
+
+153684280-153  18628 AATGCCACATACTTTGTGGATGGTGTGGGTCTTGGGGGTCATCATCAG-C  18676
+                     .||||.||...||.|.|||.|..|.|||.||||||.||.||| |.||| |
+c83749045-837   2964 GATGCTACGAGCTCTTTGGCTCTTCTGGATCTTGGTGGCCAT-AACAGTC   3012
+
+153684280-153  18677 CTCTCCAAGGAAGAATCCTCCAATCAGGCTTCTCTGTCTTGTGA--CCGC  18724
+                     ||||.||...||...|..||...|||||..||||||||.|||||  |..|
+c83749045-837   3013 CTCTTCAGCAAACGCTGTTCTGCTCAGGAGTCTCTGTCATGTGATGCTTC   3062
+
+153684280-153  18725 AATGGTATCTGCAAGGGCAGCTCAGGATCTTTAAACTCCATTCCCTCAGG  18774
+                     ...|||.|.||  |.|||.||||..|.|||||.|.|||.||||||||.||
+c83749045-837   3063 TGGGGTGTGTG--ATGGCCGCTCCAGGTCTTTCACCTCTATTCCCTCCGG   3110
+
+153684280-153  18775 GCTCACAGAAGCTGTAAAAAGCCTTGACCTGTCCAACAACAGGATCACCT  18824
+                     .|||||||.|||..|.|||||||||||||||||...|||||.||||||||
+c83749045-837   3111 ACTCACAGCAGCCATGAAAAGCCTTGACCTGTCTTTCAACAAGATCACCT   3160
+
+153684280-153  18825 ACATTAGCAACAGTGACCTACAGAGGTGTGTGAACCTCCAGGCTCTGGTG  18874
+                     |||||.||.|..|||||||.|....|||||.|||||||||||.||||.||
+c83749045-837   3161 ACATTGGCCATGGTGACCTCCGAGCGTGTGCGAACCTCCAGGTTCTGATG   3210
+
+153684280-153  18875 CTGACATCCAATGGAATTAACACAATAGAGGAAGATTCTTTTTCTTCCCT  18924
+                     .|||..||||...||||.||.||||||||||.|||..|.||||.|||.||
+c83749045-837   3211 TTGAAGTCCAGCAGAATCAATACAATAGAGGGAGACGCCTTTTATTCTCT   3260
+
+153684280-153  18925 GGGCAGTCTTGAACATTTAGACTTATCCTATAATTACTTATCTAATTTAT  18974
+                     ||||||||||||||||||.||.||.||..|||||.||.||||||.|||||
+c83749045-837   3261 GGGCAGTCTTGAACATTTGGATTTGTCTGATAATCACCTATCTAGTTTAT   3310
+
+153684280-153  18975 CGTCTTCCTGGTTCAAGCCCCTTTCTTCTTTAACATTCTTAAACTTACTG  19024
+                     |.||.|||||||||..|||||||||.|||||.|.||.||||||||||.||
+c83749045-837   3311 CTTCCTCCTGGTTCGGGCCCCTTTCCTCTTTGAAATACTTAAACTTAATG   3360
+
+153684280-153  19025 GGAAATCCTTACAAAACCCTAGGGGAAACATCTCTTTTTTCTCATCTCAC  19074
+                     ||||||||||||.|.||.||.||||.||||||.||||||.|..|||||||
+c83749045-837   3361 GGAAATCCTTACCAGACACTGGGGGTAACATCGCTTTTTCCCAATCTCAC   3410
+
+153684280-153  19075 AAAATTGCAAATCCTGAGAGTGGGAAATATGGACACCTTCACTAAGATTC  19124
+                     |||.||.||||.|||.||..|.||||||.|.||.||.||||.|.||||..
+c83749045-837   3411 AAATTTACAAACCCTCAGGATAGGAAATGTAGAGACTTTCAGTGAGATAA   3460
+
+153684280-153  19125 AAAGAAAAGATTTTGCTGGACTTACCTTCCTTGAGGAACTTGAGATTGAT  19174
+                     ..||||.||||||||||||.||.||.|..||..|.||||||||.|||.|.
+c83749045-837   3461 GGAGAATAGATTTTGCTGGGCTGACTTCTCTCAATGAACTTGAAATTAAG   3510
+
+153684280-153  19175 GCTTCAGATCTACAGAGCTATGAGCCAAAAAGTTTGAAGTCAATTCAGAA  19224
+                     ||.|.|..|||.|.||..|||.||.|..|||||.|.|||||.||.|...|
+c83749045-837   3511 GCATTAAGTCTCCGGAATTATCAGTCCCAAAGTCTAAAGTCGATCCGCGA   3560
+
+153684280-153  19225 TGTAAGTCATCTGATCCTTCATATGAAGC-AGCATATTTTACTGCTGGAG  19273
+                     ..|...|||.||||..|||||..| |||| ||..|..|||.|||||||||
+c83749045-837   3561 CATCCATCACCTGACTCTTCACTT-AAGCGAGTCTGCTTTCCTGCTGGAG   3609
+
+153684280-153  19274 ATTTTTGTAGATGTTACAAGTTCCGTGGAATGTTTGGAACTGCGAGATAC  19323
+                     |||||||.||||.||...|||||.|||..||.|||.|||||..|||||||
+c83749045-837   3610 ATTTTTGCAGATATTCTGAGTTCTGTGAGATATTTAGAACTAAGAGATAC   3659
+
+153684280-153  19324 TGATTTGGACACTTTCCATTTTTCAGAACTATCCACTGGTGAAACAAATT  19373
+                     |.|.||||.||..|||||.||||||..|||..||...|.||||...|..|
+c83749045-837   3660 TAACTTGGCCAGGTTCCAGTTTTCACCACTGCCCGTAGATGAAGTCAGCT   3709
+
+153684280-153  19374 CATTGATTAAAAAGTTTACATTTAGAAATGTGAAAATCACCGATGAAAGT  19423
+                     ||..|||.||.|||.|..||||..||.....|....||||.||||||||.
+c83749045-837   3710 CACCGATGAAGAAGCTGGCATTCCGAGGCTCGGTTCTCACTGATGAAAGC   3759
+
+153684280-153  19424 TTGTTTCAGGTTATGAAACTTTTGAATCAGATTTCTGGATTGTTAGAATT  19473
+                     ||.....||.|..||||.||.|||..|.|.||.|..|.|.|||..||..|
+c83749045-837   3760 TTTAACGAGCTCCTGAAGCTGTTGCGTTACATCTTGGAACTGTCGGAGGT   3809
+
+153684280-153  19474 AGAGTTTGATGACTGTACCCTTAATGGAGTTGGTAATTTTAGAGCATCTG  19523
+                     ||||||.||.|||||||||||.|||||..|.||..||||.|...|.||.|
+c83749045-837   3810 AGAGTTCGACGACTGTACCCTCAATGGGCTCGGCGATTTCAACCCCTCGG   3859
+
+153684280-153  19524 ATAATGACAGAGTTATAGATCCAGGTAAAGTGGAAACGTTAACAATCCGG  19573
+                     |....|||..|||.|..||.|..||||||||.|||||..|.||.||||||
+c83749045-837   3860 AGTCAGACGTAGTGAGCGAGCTGGGTAAAGTAGAAACAGTCACTATCCGG   3909
+
+153684280-153  19574 AGGCTGCATATTCCAAGGTTTTACTTATTTTATGATCTGAGCACTTTATA  19623
+                     |||.|||||||.||...|||.||.||.||||||||.|||||.|||.|.||
+c83749045-837   3910 AGGTTGCATATCCCCCAGTTCTATTTGTTTTATGACCTGAGTACTGTCTA   3959
+
+153684280-153  19624 TTCACTTACAGAAAGAGTTAAAAGAATCACAGTAGAAAACAGTAAAGTTT  19673
+                     |||.||....||.|..||.||..|||||||||||||.|||||.||.||.|
+c83749045-837   3960 TTCCCTCCTGGAGAAGGTGAAGCGAATCACAGTAGAGAACAGCAAGGTCT   4009
+
+153684280-153  19674 TTCTGGTTCCTTGTTTACTTTCACAACATTTAAAATCATTAGAATACTTG  19723
+                     |.||||||||.||.|...|.||.||.|||||||||||||||||||.|||.
+c83749045-837   4010 TCCTGGTTCCCTGCTCGTTCTCCCAGCATTTAAAATCATTAGAATTCTTA   4059
+
+153684280-153  19724 GATCTCAGTGAAAATTTGATGGTTGAAGAATACTTGAAAAATTCAGCCTG  19773
+                     ||.|||||.||||||.||||||||||||||||.|||||.||.||||||||
+c83749045-837   4060 GACCTCAGCGAAAATCTGATGGTTGAAGAATATTTGAAGAACTCAGCCTG   4109
+
+153684280-153  19774 TGAGGATGCCTGGCCCTCTCTACAAACTTTAATTTTAAGGCAAAATCATT  19823
+                     |.|||..||||||||.|||||||||||.|||.||||.||.||.|||||||
+c83749045-837   4110 TAAGGGAGCCTGGCCTTCTCTACAAACCTTAGTTTTGAGCCAGAATCATT   4159
+
+153684280-153  19824 TGGCATCATTGGAAAAAACCGGAGAGACTTTGCTCACTCTGAAAAACTTG  19873
+                     ||..||||.||.|||||||.|||||||.||||||.||||||||||||.||
+c83749045-837   4160 TGAGATCAATGCAAAAAACAGGAGAGATTTTGCTGACTCTGAAAAACCTG   4209
+
+153684280-153  19874 ACTAACATTGATATCAGTAAGAATAGTTTTCATTCTATGCCTGAAACTTG  19923
+                     ||.....||||.|||||.|.|||.|.|||||||.|.|||||.||.|..||
+c83749045-837   4210 ACCTCTCTTGACATCAGCAGGAACACTTTTCATCCGATGCCCGACAGCTG   4259
+
+153684280-153  19924 TCAGTGGCCAGAAAAGATGAAATATTTGAACTTATCCAGCACACGAATAC  19973
+                     |||||||||||||||||||...|...||||.||.|||||.|||.|.||.|
+c83749045-837   4260 TCAGTGGCCAGAAAAGATGCGCTTCCTGAATTTGTCCAGTACAGGGATCC   4309
+
+153684280-153  19974 ACAGTGTAACAGGC-TGCATTCCCAAGACACTGGAAATTTTAGATGTTAG  20022
+                     . .|||..|.|..| ||||||||..||||.|||||..|.||.||||||||
+c83749045-837   4310 G-GGTGGTAAAAACGTGCATTCCTCAGACGCTGGAGGTGTTGGATGTTAG   4358
+
+153684280-153  20023 CAACAACAATCTCAATTTATTTTCTTTGAATTTGCCGCAACTCAAAGAAC  20072
+                     .|||||||||||..|.|.||||||||||...|||||.|..||..||||.|
+c83749045-837   4359 TAACAACAATCTTGACTCATTTTCTTTGTTCTTGCCTCGGCTGCAAGAGC   4408
+
+153684280-153  20073 TTTATATTTCCAGAAATAAGTTGATGACTCTACCAGATGCCTCCCTCTTA  20122
+                     |.||||||||||||||||||.|||..||.||.||||||||.||..|.||.
+c83749045-837   4409 TCTATATTTCCAGAAATAAGCTGAAAACACTCCCAGATGCTTCGTTGTTC   4458
+
+153684280-153  20123 CCCATGTTACTAGTATTGAAAATCAGTAGGAATGCAATAACTACGTTTTC  20172
+                     ||..||||.||.||..||||||||||...|||||||.|||.|||.||.||
+c83749045-837   4459 CCTGTGTTGCTGGTCATGAAAATCAGAGAGAATGCAGTAAGTACTTTCTC   4508
+
+153684280-153  20173 TAAGGAGCAACTTGACTCATTTCACACACTGAAGACTTTGGAAGCTGGTG  20222
+                     |||.||.|||||||..||.||||.||.||||.|||||.|||||||.||.|
+c83749045-837   4509 TAAAGACCAACTTGGTTCTTTTCCCAAACTGGAGACTCTGGAAGCAGGCG   4558
+
+153684280-153  20223 GCAATAACTTCATTTGCTCCTGTGAATTCCTCTCCTTCACTCAGGAGCAG  20272
+                     .|||..||||..||||||||||.|||.||||.|||||.|||..||||..|
+c83749045-837   4559 ACAACCACTTTGTTTGCTCCTGCGAACTCCTATCCTTTACTATGGAGACG   4608
+
+153684280-153  20273 CAAGCACTGGCCAAAGTCTTGATTGATTGGCCAGCAAATTACCTGTGTGA  20322
+                     |.|||.|||||..||.||.||.||||.|||||||..|..|||||||||||
+c83749045-837   4609 CCAGCTCTGGCTCAAATCCTGGTTGACTGGCCAGACAGCTACCTGTGTGA   4658
+
+153684280-153  20323 CTCTCCATCCCATGTGCGTGGCCAGCAGG-TTCAGGATGTCCGCCTCTCG  20371
+                     ||||||..|.|...|||..||||| |||| |||||||||.|||.|.|||.
+c83749045-837   4659 CTCTCCGCCTCGCCTGCACGGCCA-CAGGCTTCAGGATGCCCGGCCCTCC   4707
+
+153684280-153  20372 GTGTCGGAATGTCACAGGACAGCACTGGTGTCTGGCATGTGCTGTGCTCT  20421
+                     ||.|.||||||||||..|.|.||||||||||||||..|.||||||||.||
+c83749045-837   4708 GTCTTGGAATGTCACCAGGCTGCACTGGTGTCTGGAGTCTGCTGTGCCCT   4757
+
+153684280-153  20422 GTTCCTGCTGATCCTGCTCACGGGGGTCCTGTGCCACCGTTTCCATGGCC  20471
+                     ..|||||.|||||.|||||...||.|.|||||||||||.||||||.||.|
+c83749045-837   4758 TCTCCTGTTGATCTTGCTCGTAGGTGCCCTGTGCCACCATTTCCACGGAC   4807
+
+153684280-153  20472 TGTGGTATATGAAAATGATGTGGGCCTGGCTCCAGGCCAAAAGGAAGCCC  20521
+                     |||||||..|||.||||||||||||.||||||||||||||.|||||||||
+c83749045-837   4808 TGTGGTACCTGAGAATGATGTGGGCGTGGCTCCAGGCCAAGAGGAAGCCC   4857
+
+153684280-153  20522 AGGAAAGCTCCCAGCAGGAACATCTGCTATGATGCATTTGTTTCTTACAG  20571
+                     |.||||||||||.|||||.||.|.|||||||||||.||||||||.|||||
+c83749045-837   4858 AAGAAAGCTCCCTGCAGGGACGTTTGCTATGATGCCTTTGTTTCCTACAG   4907
+
+153684280-153  20572 TGAGCGGGATGCCTACTGGGTGGAGAACCTTATGGTCCAGGAGCTGGAGA  20621
+                     |||||.||||.||.|.||||||||||||||.|||||||||.|||||||||
+c83749045-837   4908 TGAGCAGGATTCCCATTGGGTGGAGAACCTCATGGTCCAGCAGCTGGAGA   4957
+
+153684280-153  20622 ACTTCAATCCCCCCTTCAAGTTGTGTCTTCATAAGCGGGACTTCATTCCT  20671
+                     |||...|.||.|||||.|||.|||||||.||.||||||||||||.||||.
+c83749045-837   4958 ACTCTGACCCGCCCTTTAAGCTGTGTCTCCACAAGCGGGACTTCGTTCCG   5007
+
+153684280-153  20672 GGCAAGTGGATCATTGACAATATCATTGACTCCATTGAAAAGAGCCACAA  20721
+                     |||||.||||||||||||||.|||||.||.|||||.||||||||||||||
+c83749045-837   5008 GGCAAATGGATCATTGACAACATCATCGATTCCATCGAAAAGAGCCACAA   5057
+
+153684280-153  20722 AACTGTCTTTGTGCTTTCTGAAAACTTTGTGAAGAGTGAGTGGTGCAAGT  20771
+                     ||||||.||.|||||||||||.|||||.||...|||.|||||||||||||
+c83749045-837   5058 AACTGTGTTCGTGCTTTCTGAGAACTTCGTACGGAGCGAGTGGTGCAAGT   5107
+
+153684280-153  20772 ATGAACTGGACTTCTCCCATTTCCGTCTTTTTGATGAGAACAATGATGCT  20821
+                     |.|||||||||||||||||.|||.|.||.|||||.||||||||.||.||.
+c83749045-837   5108 ACGAACTGGACTTCTCCCACTTCAGGCTCTTTGACGAGAACAACGACGCG   5157
+
+153684280-153  20822 GCCATTCTCATTCTTCTGGAGCCCATTGAGAAAAAAGCCATTCCCCAGCG  20871
+                     |||||.||..||.|.||||||||||||||||..|||||||||||||||||
+c83749045-837   5158 GCCATCCTTGTTTTGCTGGAGCCCATTGAGAGGAAAGCCATTCCCCAGCG   5207
+
+153684280-153  20872 CTTCTGCAAGCTGCGGAAGATAATGAACACCAAGACCTACCTGGAGTGGC  20921
+                     |||||||||.|||||.||||||||||||||||||||||||||||||||||
+c83749045-837   5208 CTTCTGCAAACTGCGCAAGATAATGAACACCAAGACCTACCTGGAGTGGC   5257
+
+153684280-153  20922 CCATGGACGAGGCTCAGCGGGAAGGATTTTGGGTAAATCTGAGAGCTGCG  20971
+                     ||.||||.||.|..||||.|||||..||||||||||||||||||.||||.
+c83749045-837   5258 CCTTGGATGAAGGCCAGCAGGAAGTGTTTTGGGTAAATCTGAGAACTGCA   5307
+
+153684280-153  20972 ATAAAGTCCTAGGTTC----CCATATTTAAGACCAGTCTTTGTCTAGTTG  21017
+                     ||||||||||||||||    ||...||...|||.  ||.||..|||    
+c83749045-837   5308 ATAAAGTCCTAGGTTCTCCACCCAGTTCCTGACT--TCCTTAACTA----   5351
+
+153684280-153  21018 GGATCTTTATGTCACTAGTTATAGTTAAGTTCATTC-AGACAT--AATTA  21064
+                     .|.|||||.||.|||.|..|.||...|||||.||.. ..||||  ||||.
+c83749045-837   5352 AGGTCTTTGTGACACAAACTGTAACAAAGTTTATAAGTAACATAGAATTG   5401
+
+153684280-153  21065 TATAAAAACTACGTGGATGTACCGTCATTTGAGGACTTGCTTACTAAAAC  21114
+                     |||.|                       |||||||..|            
+c83749045-837   5402 TATTA-----------------------TTGAGGATAT------------   5416
+
+153684280-153  21115 TACAAAACTTCAAATTTTGTCTGGGGTGCTGTTTTATAAACATATGCCAG  21164
+                         .||||.....||||||||.|..|.|||||.||||||.||.||.|| 
+c83749045-837   5417 ----TAACTATGGGTTTTGTCTTGAATACTGTTATATAAATATGTGACA-   5461
+
+153684280-153  21165 ATTTAAAAATTGGTTTTTGGTTTTTCTTTTTTCTATGAGATAACCATGAT  21214
+                        |.|..|                                         
+c83749045-837   5462 ---TCAGGA-----------------------------------------   5467
+
+153684280-153  21215 CATAAGTCTATTACTGATATCTGAATATAGTCCCTTGGTATCCAAGGGAA  21264
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  21265 TTGGTTGCAGGATCCTCGTGGATATCAAAATTCATAGATGATCAAGTCCC  21314
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  21315 TTATAAGAGTGGCATAGTATTTGCATATAACCTGTGTACATTCTCCTGTA  21364
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  21365 TACTTTAAATCATCTCTAGATTACTTATGATACCCAATACAATGTAAATA  21414
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  21415 CTATGTAAATAGTTGTACTGTCTTTTTATTTATATTATTATTGTTATTTT  21464
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  21465 TTATTTTCAAAATTTTTAAAACATACTTTTGATCCACAGTTGGTTGACTT  21514
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  21515 CATGGATGCAGAACCCATGGATATAGAGGGCCAACTGTAATCTGTAGCAA  21564
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  21565 CTGGCTTAGTTCATTAGGAAACAGCACAAATGAACTTAAGATTCTCAATG  21614
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  21615 ACTGTGTCATTCTTTCTTCCTGCTAAGAGACTCCTCTGTGGCCACAAAAG  21664
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  21665 GCATTCTCTGTCCTACCTAGCTGTCACTTCTCTGTGCAGCTGATCTCAAG  21714
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  21715 AGCAACAAGGCAAAGTATTTGGGGCACTCCCCAAAACTTGTTGCTATTCC  21764
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  21765 TAGAAAAAAGTGCTGTGTATTTCCTATTAAACTTTACAGGATGAGAAATA  21814
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  21815 CTAGAGGGTGTATTTTCATGTGATCTGGATCTGTCTTTCTGGCTATTAGA  21864
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  21865 TAGGTTTCTCCAGCCATAGTTACTTGAGAGAGTGAGTACACAGTGCAAGG  21914
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  21915 TACAGTAAATTATGTATTTCTGTAATTTAACAAAATAAATACTCAGTTTA  21964
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  21965 GGAGAATTTGAAAGACACTTCCCACATCCGGACTCTGGTCTTCCTCAGCC  22014
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  22015 TCTAACTACCTTTTGAGTTCTAGTTATTGTCCAATCACTCTGACTCTCAG  22064
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  22065 TTCCTGTTTTTTAGCCTATATCTCCTGCATCTTGTTGCTTTTTCCTTCTT  22114
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  22115 CGAAAAGTCTTGTTTTTAATTCTAAAAAAGCCTGCCCTTTTTCCCCTTCT  22164
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  22165 GAATATTTTAAAAAGTACATGTGAGCTAAATAGATTTTTAAGCAAATATA  22214
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  22215 TACCTAGAGTTTCCTCATAATGACTCAAAAATAGTTTGATACACAGTAAT  22264
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  22265 TTAAAGGTAGATACTACTACCATATGTTAATTTTGCAATCTAGGTATAAT  22314
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  22315 AATACCACACATTAAATTTTGATGCAACTTTCTTTGGTAAGCACTATTTG  22364
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  22365 CTGATTCTATGTAACTTTCTTAAGCTGGGAACCATGTGAAAGGAAGTGAG  22414
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  22415 CCTTTGACCCCTGCTCAATTCTCAACCAGAACTGGGTGTATGTGGTTAAT  22464
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  22465 TGGGCACTAGAGTCAGAAAGACCTGGGTTAGTAGATGTGTAATCTTTGGC  22514
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  22515 AAGTCAGTTGACATGACCCAAAAAGTTTTTCTGTCTTTAAAATAGGGATG  22564
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  22565 ATGATCTCTATATCCTAAGATACTGAGAGTATGAAATGTAGGAATGTAAG  22614
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  22615 TAAACCATGAGCCTAAGCTCCTTGATTCCCATTTTCTCTGGAGGGGTGTT  22664
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  22665 GAGGGCAAGAGTACCACGCCTAAGAGAATGGGCACTATGGGTTCGTGTGT  22714
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  22715 GGGGTGAGGGTGATGTCTGTAGTAGATGTTAGCTATTATTATTATTTTCC  22764
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  22765 AAGAAGATATTTCATTCCCTTATATATTATGGCTTGTAAGTGGATATTTT  22814
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  22815 TCTGTTATGGATACTAGCAGGGATATAAGGGATCCTGCTGTTTGCAGAAA  22864
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  22865 AATACCACAAAGAAATATATGCTCATTAACTGCAGAACAAGCTTGTCCTT  22914
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  22915 GGGGAACTCGCATAGGGCTGCTGCTGTTTCACACGACCTCCCAGAAGAGT  22964
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  22965 GTTATGGAGGAAACGGTAGCCAGCCTTAAAAAAAATCAGGCTTGGTGTAA  23014
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  23015 TCCCAGCACTTTGGGAGGCTAAGGCAGGAGGATTGCTTGAGTCCAGGAGT  23064
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  23065 TGGAGACCAGCCTGGGAAACATGGCAAAACCCTGTCTCTACCAAAAAATA  23114
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  23115 CAAAATATTAGCAGGGCATGGTGGCATGTGCCTCTGGTCCTAGCTACTCG  23164
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  23165 GGATGCTGAGGTGGGAGGATCACCTGAGCCCGGGAGGTCCAGGCTGCAGT  23214
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  23215 GAGCTGTGATTGCACCACTGCACTCCAGCCTGGGTGACAGAGGAAGACAC  23264
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  23265 TGTCTCAAAAAAACAAAATGAAACAAAACAAACGAAAAACAAGTTTAGAG  23314
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  23315 GAAGGAAACTTGAGATTCCACAGACACCAAATACAGTAATGGACTTTCTG  23364
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  23365 CTTTACTTCTCTGTTTCCATGTTAATTATGAGAACAAGGTAGATTTAACA  23414
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  23415 TTGACTCGATCTATGTTTAATTTCAAGAACTTAAAATAGCAACTGAAATA  23464
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  23465 GCTTCATAGATAATTGATAGATTTAAAATAATATTTAAAAAATAATCTTT  23514
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  23515 AGGACGGACGTGGTGGCTTATGCCTGTAATCCCAGCACTTTGGGAGGCTG  23564
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  23565 AGGTGGGAGGATCACCTGAGGTGTTGTGGTGCCTATTCACATTAAAGGTG  23614
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  23615 GATCTTCCTTTCCTAGTCCACTGACTCAAATGTTAATCTCCTCTGGCAAC  23664
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  23665 ACCCTCACATACACACCAGAAACTATACTTTACCAGCTATCCAGGCATCT  23714
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  23715 TTCAATCCAATCAAGTTGACACCTAGTATTAGCCATAATACTCTCCAATC  23764
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  23765 TTTTTTCAGTGTACATATACACACTACTTTACAAAATTGGGATTAGATTG  23814
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  23815 TAAATACTTAAATTTTATAAAGAAAATGGCATCTTCATTTTTTTCTGAGG  23864
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  23865 CTGTTTAGTGATTATCTGACATTCCTGAACTCTGAGGGTCATTGTGAATC  23914
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  23915 CCATTCAGATAAATACTGGCTTATTTGCCGAGAGTTCTAAATGGTTCTGA  23964
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  23965 AAGCTGCCATTGTGGCTATACATAAAAGATAAGTGGGAACTAAATTAGAG  24014
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  24015 ATCAGTTTAAGGGTTCTTTTTTTTGTTTAACAGGAGAAAAACTAATTTTT  24064
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  24065 TGTTAGTGCTTTATCCAAATGTGAAGTCTTTTATTTGTCAATAGACTATA  24114
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  24115 AGCTCAAGAATCTTGTTTTATCTCCCTACCCCTTGAACATGCCTACTATA  24164
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  24165 TAGTAAGTATTGAATTATTGGGATGTTTTCAGAGTAGAGAAATAAGCAAT  24214
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  24215 TAAAAATTCTATAATCTGGATGCTGAATCAATCATAATGAGAGAGGAGAA  24264
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  24265 AATGAAAAATCAGTTCGGTAGACAGCTAAGGCTAGTCTTCAGAGAAGCAG  24314
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  24315 TCTGCCTGGAAAATCACAGCTACAGGCAAAAATAGAGCAGCCTGGGGAAA  24364
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  24365 ACTCAGACTGTACCTGCACAGATAAGCAGGCAAGGTCCAGCACAGAAGCC  24414
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  24415 TTTTGTTCTTTGTGTGATTAGCAGGCTCCCAGGAAAATGTTTTCTCCCCT  24464
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  24465 TTTCAGATATGAACACGGGGGGATCCATGGGAGATTGCACTGGAAACAGA  24514
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  24515 GGGGGTTTACCTAAAAGAAACCCACAATTACTCAAACAAGAAAAAACTAT  24564
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  24565 GCTTTGTGCTTACCTAGAGACATCTCACAGCTGTATAGGTAGGTGGAGTT  24614
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  24615 GTGCAGACAGGTTTTCAAATAAGAGAAGTTACTCAAACAGCTACAGAGAT  24664
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  24665 GAGAGGAGTTTCTTATAAAAGCTTTTGCATTCAGCTGTAAAATGGCACCC  24714
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  24715 CACTTGGGCTCTCCTCTCCACTGTGGAGAGCTTTCTTCTTTCACTTACTA  24764
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  24765 AACTTTTGCTCCAACCTCACCCTTTGCATTCATGCTCCTTAATTTTCTCA  24814
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  24815 GTCATGACACAATAAGTTCAAATAACACCTTAGACAATGAGACAATGGAC  24864
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  24865 CCTGACCTATTTCAATAATACTGAAGCATTGGGCAGTTTGAAAGAGGAAA  24914
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  24915 GTTCTCAACAGTAAGAAATTGTAGTGTGAGTTATCTTAATGATGGACCTT  24964
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  24965 TGAATAGCATTAAGTATAGTGCCAATATCTGAACAAGGAAAATAATCATT  25014
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  25015 GTATTTCCTTTCTACTTCATACAATTGTAATGGCTTCAAGTATTGCAGAG  25064
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  25065 TAGATGTCTGGTGTTAAATGTATACAGTGTTGACTATTTTAAAAATGACC  25114
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  25115 AGTAATTCAAAACAAATTAATTTTGAGAGTCCAACATATCATTCATGGGT  25164
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  25165 TAATTCTTTCTGACTGGTCTTCTCTATTCAGTTAATTTTGTTCCCTTCTG  25214
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  25215 CCAGATTAATTTACTCTTTCAGCAAATATTTTTTGAGTGCCTCTTATGTG  25264
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  25265 CTAGGCAGTGCTCAAAGTGCAGGGGATATGGTAGGGAACAAAACATAAAA  25314
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  25315 TTCCTTGTCTTCATGGAGGAGAAGACAATAAATTTATGATAGGATTTCGG  25364
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  25365 GTATTGAGAAGTACTATGAAGAAAATAAAAGCAGAGTGCCACAATGGAAT  25414
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  25415 GACTGTGCACGTGTATGTGTGCACGCGCACGCAGAGTGGAACAAAAGAAA  25464
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  25465 AGTGATTCTTCTTGCTTTAGTACAGCTGTTGCATGGGTTTGAGCACTTTT  25514
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  25515 GGCAGCTCCAGGAAACCCAAAGTACCTGTGGCCCATTGAGAAGGTGTGGC  25564
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  25565 ACCTGCTGCCAGAGGCTTTGGGAGTAACCCACTTTCTACAGAAGAGCTCT  25614
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  25615 GTGGTGCAGAAGCTGCCACATGGTAACAAGCACATGGAGCAGAAGACAAG  25664
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  25665 CACAATGTCCTTGACCATAGATTACTTAACGACTCCACCTACTTTAAAGA  25714
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  25715 TGTTGAACTGATGAGAAAGTATTAGCTATGGCTAAATGTTGTGTGTGAGA  25764
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  25765 AGTACTTTGCAAACCTCTGAAACACTTTACAGATATTGTTATCAGTCAAA  25814
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  25815 CTGGAAGTAGAATGTCCACAGTGCAGTGTAACAAATGTGACATGTGCATG  25864
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  25865 AGTTAAGAAACAGCTGTAATGGGAAAGATGAAAAAACATGCTTTATTTGT  25914
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  25915 TTATTCCATTGTTCAGCTTCTCTTTAAATTCTTTCCACATGGACAAATTG  25964
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  25965 CTTGACAACAAAGTTTACTTAGTTTTCTAAACACTTGGGATCATCTCTAA  26014
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  26015 AATTAAAAAAATTAATATTAAATGTTGGACCAAGGATTTCAACCATGCAG  26064
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  26065 TATGTTGCTTCTGGGGTCTGCTGTCCTATTCCAGCCCTAGTGAATAGATA  26114
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  26115 ATGCCTTGAACTATTCCTATCACCACAGGTTGCCAGGCCACCAAATAACG  26164
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  26165 AAGCCAATCCAGGATTTGTCCATACAGAAAATGTGTGCGCTCCCAGCTAA  26214
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  26215 ATCTCAGTTAAGGAGGTTGTTCTATATACAGCCAAGTAGCAGAAATATTC  26264
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  26265 ATAAATGTCATTTGCAAATATAATAAACAATGTAATGAATGGGTATTTCC  26314
+                                                                       
+c83749045-837   5468 --------------------------------------------------   5467
+
+153684280-153  26315 TTTCTTGTTAATTCTATGTGCTCAATTAAAAGCCCCTTATGTGA  26358
+                                                                 
+c83749045-837   5468 --------------------------------------------   5467
+
+
+#---------------------------------------
+#---------------------------------------
